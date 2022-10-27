@@ -1,0 +1,42 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F1F1F1;
+    font-size: x-large;
+}
+
+.container {
+    margin-left: 20px;
+}
+
+.question-text {
+    margin-bottom: 5%;
+    font-size: xx-large;
+
+}
+.studentInput {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+}
+
+.submit-btn {
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+    background-color: #BEE1F9;
+}
+
+.number-line {
+    width: 80%;
+}
+
+.numberLine-btn {
+    width: 30%;
+    background: #E1E0F6;
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+}
+
+.support-container {
+    display: flex;
+    flex-direction: column;
+}
